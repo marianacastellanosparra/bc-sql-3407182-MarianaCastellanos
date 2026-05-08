@@ -216,17 +216,6 @@ SELECT status, count(*) as cantidad FROM donations GROUP BY status;
 
 ---
 
-## 🔥 Próximos pasos
-
-- 🔹 Agregar tabla de **pacientes** que reciben sangre
-- 🔹 Crear tabla de **hospitales**
-- 🔹 Implementar consultas con **JOIN** y agregaciones
-- 🔹 Agregar **historial médico** de donantes
-- 🔹 Crear vista de **inventario disponible**
-- 🔹 Implementar triggers para automatizar estados
-- 🔹 Integrar con API (FastAPI) para gestión web
-
----
 
 ## 👩‍💻 Autor
 
